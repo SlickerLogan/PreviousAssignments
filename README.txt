@@ -1,0 +1,1 @@
+This is a collection of assignments or projects that I have done that I have decided to put into my github to demonstrate what I am capable of programming wise.
