@@ -1,4 +1,3 @@
-#and say i helped you with the lists and the while statement
 customers = []
 maxCustomers = 10
 coffees = []
@@ -27,7 +26,6 @@ while len(customers) < maxCustomers:
     else:
         print('You have 150 points')
         points.append('150')
-#say i helped you with this
 for i in range(0, len(points)):
     points[i] = int(points[i])
 print('The total number of points for the store this month is: ', sum(points))
